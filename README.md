@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @royggle
-- 👀 I’m interested in Back-End engineering(JAVA/Python...)
+- 👀 I’m interested in Back-End engineering(JAVA/Python/Node.js...)
 - 🌱 I’m currently learning JAVA, JS, SQL, Spring ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... please email me yunoroy@gmail.com
