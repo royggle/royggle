@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @royggle
-- 👀 I’m interested in Back-End engineering(JAVA/Python/Node.js...)
-- 🌱 I’m currently learning JAVA, JS, SQL, Spring ...
+- ✨ Currently working for CAL co.ltd as a IT engineer
+- 👀 Interested in Back-End engineering(JAVA/Python/Node.js...)
+- 🌱 Learning JAVA, JS, SQL, Spring ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... please email me yunoroy@gmail.com
+- 📫 How to reach me ... Please email me yunoroy@gmail.com
 
 <!---
 royggle/royggle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
